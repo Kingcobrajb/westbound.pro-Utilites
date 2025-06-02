@@ -7,7 +7,7 @@
 
 local assert = assert
 
-assert(game.PlaceId == 2474168535, "[westbound.pro] - The game you executed the script on is not Westbound!")
+assert(game.PlaceId == 1362458378, "[westbound.pro] - The game you executed the script on is not Westbound!")
 
 repeat task.wait(0) until game:IsLoaded()
 
